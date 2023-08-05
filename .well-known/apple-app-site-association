@@ -3,7 +3,7 @@
         "apps": [],
         "details": {
             "22YYHBY34Y.com.kuba.tetra-ios": {
-            "paths": ["*"]
+            "paths": ["/wwdc/news/", "/videos/wwdc/2015/*"]
             }        
         }
     }

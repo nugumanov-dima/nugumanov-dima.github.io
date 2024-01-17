@@ -1,11 +1,10 @@
 {
   "applinks": {
-    "apps": [],
-    "details": {
-        "22YYHBY34Y.com.kuba.tetra-ios": {
-        "paths": ["/wwdc/news/", "/videos/wwdc/2015/*"]
-        "paths": [ "*" ]
-        }        
-     }
-  }
+        "apps": [],
+        "details": {
+            "22YYHBY34Y.com.kuba.tetra-ios": {
+            "paths": [ "*" ]
+            }        
+        }
+    }
 }

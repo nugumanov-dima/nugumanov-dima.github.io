@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "22YYHBY34Y.com.kuba.tetra-ios",
+        "appID": "com.kuba.tetra-ios",
         "paths": ["NOT /e/*", "*", "/"]
       }
     ]
